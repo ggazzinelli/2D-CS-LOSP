@@ -1,2 +1,2 @@
-# Artigo_1
+# 2D-CS-LOSP
 Instances parameters
