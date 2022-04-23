@@ -1,5 +1,5 @@
 # 2D-CS-LOSP
-Class_1_Instances: this is a data set of 10 instances for the CS-LOSP. Each instance is composed of the lengh of the standart object to be cut, de width of the standart object to be cut, the number of distinct item types, the lenght of the item types, the width of the item types and the demand of the item types. Thus, each instance is given by:
+Each of the 4 Class_Instances is as a data set of 10 instances for the CS-LOSP. Each instance is composed of the lengh of the standart object to be cut, de width of the standart object to be cut, the number of distinct item types, the lenght of the item types, the width of the item types and the demand of the item types. Thus, each instance is given by:
 
 L
 
